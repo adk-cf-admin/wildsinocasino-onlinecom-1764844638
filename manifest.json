@@ -1,0 +1,19 @@
+{
+  "name": "Wildsino",
+  "short_name": "Wildsino",
+  "theme_color": "",
+  "background_color": "#1A1B21",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1764773177-favicon-4.svg",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
